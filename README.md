@@ -93,7 +93,7 @@
 
 ## 实验结果
 
-![](https://github.com/Phoobobo/wechat_jump_game/blob/master/Screenshots/IMG_20171230_162952.jpg)
+![](https://github.com/Phoobobo/wechat_jump_game/blob/master/Screenshots/IMG_20171230_213949.jpg)
 
 ## TODO 
 
