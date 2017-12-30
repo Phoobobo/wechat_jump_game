@@ -6,6 +6,7 @@
 [github项目地址](https://github.com/wangshub/wechat_jump_game)
 
 ### **更新日志：**
+> 2017-12-39 : F君发现此脚本，自行配置720p调整参数和算法，并刷到6313分爽了一把
 
 > 2017-12-29 ： 增加更新自动化运行脚本，感谢github上的binderclip
 
@@ -38,8 +39,10 @@
 
 - Python 2.7
 - Android 手机
-- Adb 驱动
+- Adb 驱动（mac/linux的驱动文件在根目录，都需配置环境变量）
 - Python Matplot绘图
+
+**如果你是Python3, 请运行pip3.5**
 
 如果你是`iOS`，请参考下面的配置：
 - 使用真机调试wda，参考iOS 真机如何安装 [WebDriverAgent · TesterHome](https://testerhome.com/topics/7220)
@@ -85,10 +88,12 @@
 - 界面转至微信跳一跳游戏，点击开始游戏
 - 运行`python wechat_jump_auto.py`，如果手机界面显示USB授权，请点击确认
 
+**如果你的手机是android机，且是720p屏幕，那么可以直接运行我调试好参数和算法的文件`python wechat_jump_auto_1280_720.py`**
+
 
 ## 实验结果
 
-![](https://ws1.sinaimg.cn/large/c3a916a7gy1fmxel5dkxvj20u01hcmzx.jpg)
+![](https://github.com/Phoobobo/wechat_jump_game/blob/master/Screenshots/IMG_20171230_162952.jpg)
 
 ## TODO 
 
